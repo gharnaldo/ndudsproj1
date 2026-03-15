@@ -94,3 +94,23 @@ These results suggest that **patient safety and readmission outcomes play a majo
 You can read the full analysis here:
 
 [What Factors Influence Hospital Ratings? A Data Science Exploration](https://dev.to/arnaldovv/what-factors-influence-hospital-ratings-a-data-science-exploration-1ddj)
+
+---
+
+## Repository Structure
+
+- **hospital_analysis.ipynb**  
+  Main notebook containing the full data science workflow including data cleaning, exploratory data analysis, modeling, and evaluation.
+
+- **data/**  
+  Folder containing the CMS dataset used for the analysis.
+
+- **README.md**  
+  Documentation describing the motivation, methodology, and key findings of the project.
+
+---
+
+## Acknowledgements
+
+- Centers for Medicare & Medicaid Services (CMS) for providing the dataset.
+- Udacity Data Science Nanodegree program for the project framework.
