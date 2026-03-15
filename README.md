@@ -87,3 +87,10 @@ The most influential variables for predicting hospital ratings were:
 
 These results suggest that **patient safety and readmission outcomes play a major role in hospital ratings**.
 
+---
+
+## Blog Post
+
+You can read the full analysis here:
+
+[What Factors Influence Hospital Ratings? A Data Science Exploration](https://dev.to/arnaldovv/what-factors-influence-hospital-ratings-a-data-science-exploration-1ddj)
